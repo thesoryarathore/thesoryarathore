@@ -18,7 +18,7 @@
 <p align="left">
 <a href="https://codepen.io/soryarathore" target="blank"><img align="center" src="https://sorya70.github.io/Social/codepen.svg" alt="soryarathore" height="30" width="40" /></a>
 <a href="https://twitter.com/thesoryarathore" target="blank"><img align="center" src="https://sorya70.github.io/Social/twitter.svg" alt="thesoryarathore" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/surjeet-singh-48275125b" target="blank"><img align="center" src="https://sorya70.github.io/Social/linked-in.svg" alt="sorya rathore" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/surjeet singh" target="blank"><img align="center" src="https://sorya70.github.io/Social/linked-in.svg" alt="sorya rathore" height="30" width="40" /></a>
 <a href="https://fb.com/thesoryarathore" target="blank"><img align="center" src="https://sorya70.github.io/Social/facebook.svg" alt="thesoryarathore" height="30" width="40" /></a>
 <a href="https://instagram.com/thesoryarathore" target="blank"><img align="center" src="https://sorya70.github.io/Social/instagram.svg" alt="thesoryarathore" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/sorya rathore" target="blank"><img align="center" src="https://sorya70.github.io/Social/youtube.svg" alt="sorya rathore" height="30" width="40" /></a>
