@@ -41,7 +41,7 @@
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://sorya70.github.io/Social/nodejs_plain_wordmark_logo_icon_146410.svg" alt="nodejs" width="40" height="40"/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://sorya70.github.io/Social/psd_file_design_graphic_digital_artwork_adobe_photoshop_icon_191032.svg" alt="photoshop" width="40" height="40"/> </a> 
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://sorya70.github.io/Social/php_icon_130857.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://sorya70.github.io/Social/getpostman_logo_icon_169124.svg" alt="postman" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://sorya70.github.io/Social/python_104451.svg" alt="python" width="40" height="40"/> </a> 
+<!-- <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://sorya70.github.io/Social/python_104451.svg" alt="python" width="40" height="40"/> </a>  -->
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://sorya70.github.io/Social/react_original_logo_icon_146374.svg" alt="react" width="40" height="40"/> </a> 
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://sorya70.github.io/Social/programming_tecnology_react_native_logo_icon_228457.svg" alt="reactnative" width="40" height="40"/> </a> 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://sorya70.github.io/Social/typescript_plain_logo_icon_146316.svg" alt="typescript" width="40" height="40"/> </a> </p> 
