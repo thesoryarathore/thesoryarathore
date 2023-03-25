@@ -46,6 +46,12 @@
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://sorya70.github.io/Social/programming_tecnology_react_native_logo_icon_228457.svg" alt="reactnative" width="40" height="40"/> </a> 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://sorya70.github.io/Social/typescript_plain_logo_icon_146316.svg" alt="typescript" width="40" height="40"/> </a> </p> 
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=thesoryarathore&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thesoryarathore&show_icons=true&locale=en&layout=compact" alt="thesoryarathore" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thesoryarathore&show_icons=true&locale=en" alt="thesoryarathore" /></p>
